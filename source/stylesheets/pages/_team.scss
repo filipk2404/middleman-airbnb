@@ -1,4 +1,4 @@
-#about {
+#team {
   height: 100vh;
   display: flex;
   align-items: center;
@@ -8,7 +8,6 @@
   img {
     width: 150px;
     box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
-  }
   h1 {
     font-size: 30px;
     font-weight: bolder;
@@ -27,7 +26,8 @@
     letter-spacing: -0.5px;
     font-size: 15px;
   }
+}
   .fa-heart {
-    color: $red;
+    color: #D23333;
   }
 }
